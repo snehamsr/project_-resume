@@ -15,6 +15,6 @@ Notepad++ v8.4.7 bug-fixes and new features:
 13. Fix lines hiding issue.
 14. Fix language detected from content not applied if default language is set.
 15. Fix long filters get truncated in Find in Files feature.
-16. Add ESC Key for aborting "Move to Recycle Bin" confirmation vinay
+16. Add ESC Key for aborting "Move to Recycle Bin" confirmation pappu sneha
 
 
